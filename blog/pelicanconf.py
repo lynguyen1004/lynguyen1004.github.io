@@ -7,7 +7,7 @@ PATH = 'content'
 TIMEZONE = 'Asia/Ho_Chi_Minh'
 
 DEFAULT_LANG = 'en'
-THEME = '/Users/nhim/pelican-themes/bootlex'
+THEME = '/Users/nhim/pelican-themes/Peli-Kiera'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
